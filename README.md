@@ -1,4 +1,4 @@
-# To Do List Application with Typescript 
+# To Do / Task List Application with Typescript 
 ...
 
 [Live Demo](https://jolly-leakey-dcbf0a.netlify.app/)
